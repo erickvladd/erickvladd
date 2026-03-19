@@ -21,11 +21,11 @@
 
 ---
 
-##About Me
+## About Me
 
 I'm a **Computer Systems Engineering** student with a passion for full-stack development and modern technologies. Currently working as a **Frontend Developer** at Arancel - Qbit, where I create dynamic and responsive user interfaces while managing comprehensive application deployments.
 
-##Tech Stack
+## Tech Stack
 
 <div align="center">
 
