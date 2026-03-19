@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA2264,100:a82da8&height=220&section=header&text=Erick%20Vladimir&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Computer%20Systems%20Engineer&descAlignY=60&descSize=20" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA2264,100:a82da8&height=220&section=header&text=Erick%20Vladimir&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=fff&desc=Backend%20Developer%20%7C%20Computer%20Systems%20Engineer&descAlignY=60&descSize=20" />
 </div>
 
 <div align="center">
@@ -10,9 +10,9 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/oliver.olverax@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliver.olverax@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/oliver--olvera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-olvera)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25)
+[![Email](https://img.shields.io/badge/erickxvladx@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erickxvladx@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/erickvladd-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erickvladd/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erickvladd)
 
 [![Location](https://img.shields.io/badge/Location-Mexico_City,_Mexico-success?style=for-the-badge)]()
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=experience&logoColor=white" />
