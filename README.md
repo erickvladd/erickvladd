@@ -1,71 +1,143 @@
-<p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
-</p>
-
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Aditya664.Aditya664)
-[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/Aditya664)
-
-<div size='20px'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
+<div align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA2264,100:a82da8&height=220&section=header&text=Erick%20Vladimir&fontSize=65&fontAlignY=40&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%7C%20Computer%20Systems%20Engineer&descAlignY=60&descSize=20" />
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<div align="center">
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=A82DA8&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Building+scalable+web+applications+%F0%9F%9A%80;Frontend+%2B+Backend+%2B+Cloud+%E2%98%81%EF%B8%8F;Passionate+about+modern+technologies;Always+learning+and+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on  Soy Estudiante
-  
-- 🌱 I’m currently learning Git, Java y GitHub
-  
-- 👯 I’m looking to collaborate on Proyectos
-  
-- 💬 Ask me about Sql, Java, C#, JavaScript
-  
-- ⚡ Fun fact: Me gustan los girasoles.
+</div>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=scikit&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/scikit.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=pytorch&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
+<div align="center">
+
+[![Email](https://img.shields.io/badge/oliver.olverax@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliver.olverax@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/oliver--olvera-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliver-olvera)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25)
+
+[![Location](https://img.shields.io/badge/Location-Mexico_City,_Mexico-success?style=for-the-badge)]()
+<img src="https://img.shields.io/badge/Experience-2%2B%20Years-orange?style=for-the-badge&logo=experience&logoColor=white" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Computer Systems Engineering** student with a passion for full-stack development and modern technologies. Currently working as a **Frontend Developer** at Arancel - Qbit, where I create dynamic and responsive user interfaces while managing comprehensive application deployments.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,html,css" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,django,nodejs,tailwind,vite" />
+
+### Databases & Backend
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" />
+
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
+
+### Development Tools
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,linux" />
+
+</div>
+
+## 🎯 Featured Projects
+
+### University Data Warehouse
+<div align="center">
+  <img src="https://img.shields.io/badge/Type-Academic%20Analysis%20System-blue?style=for-the-badge&logo=chart-bar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-Django%20%7C%20PostgreSQL%20%7C%20OLAP-green?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25/Examen-IS)
+
+</div>
+
+---
+
+### Metro Route Planner
+<div align="center">
+  <img src="https://img.shields.io/badge/Type-Transportation%20App-green?style=for-the-badge&logo=map&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Vite%20%7C%20Graph%20Algorithms-blue?style=for-the-badge&logo=react&logoColor=white" />
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25/metro-app)
+</div>
+
+---
+
+### Fourier Series Visualizer
+<div align="center">
+  <img src="https://img.shields.io/badge/Type-Mathematical%20Visualization-purple?style=for-the-badge&logo=calculator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Vite%20%7C%20DFT-orange?style=for-the-badge&logo=react&logoColor=white" />
+
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25/Fourier-PDS)
+</div>
+
+## 💼 Experience & Education
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>💼 Work Experience</h3>
+      <b>Frontend Developer</b><br>
+      <i>Arancel | Qbit</i><br>
+      Jan 2024 - Oct 2025<br><br>
+      <b>Frontend Developer</b><br>
+      <i>Banorte Hackathon 2024</i><br>
+      Oct 2024
+    </td>
+    <td align="center" width="50%">
+      <h3>🎓 Education</h3>
+      <b>Computer Systems Engineering</b><br>
+      <i>IPN - ESCOM</i><br>
+      2022 - 2026<br><br>
+      <b>Digital Systems Technician</b><br>
+      <i>IPN - CECyT 1</i><br>
+      2019 - 2022
+    </td>
+  </tr>
+</table>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
-  
-<br>
-<br>
-  <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+## 📊 GitHub Statistics
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverx25&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" width="49%" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oliverx25&theme=tokyonight&hide_border=true&area=true" width="49%" height="180em"/>
+</div>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oliverx25&theme=tokyonight" width="100%"/>
+</div>
 
+## 🏆 Achievements
 
-<br>
+<div align="center">
 
+| Achievement | Description | Year |
+|:-----------:|:------------|:----:|
+| 🥇 | **Banorte Hackathon 2024** - Frontend Developer | 2024 |
+| 🎓 | **Software Engineering Final Project** - Data Warehouse System | 2024 |
+| 🚀 | **TimeBux Entrepreneurship** - Co-founder & Lead Frontend | 2024 |
 
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+</div>
 
-Last Edited on: 04/09/2021
+---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EA2264,100:a82da8&height=120&section=footer" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Oliverx25&style=for-the-badge&color=a82da8" alt="Profile Views" />
+
+  <sub>Made with ❤️ by Oliver Olvera</sub>
+</div>
