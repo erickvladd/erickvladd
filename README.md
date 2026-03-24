@@ -93,5 +93,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Oliverx25&style=for-the-badge&color=a82da8" alt="Profile Views" />
 
-  <sub>Made with ❤️ by Oliver Olvera</sub>
+  <sub>By Erick Vladimir</sub>
 </div>
