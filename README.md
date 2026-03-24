@@ -94,9 +94,9 @@ I'm a **Computer Systems Engineering** student with a passion for full-stack dev
       <h3>🎓 Education</h3>
       <b>Computer Systems Engineering</b><br>
       <i>IPN - ESCOM</i><br>
-      2022 - 2026<br><br>
-      <b>Digital Systems Technician</b><br>
-      <i>IPN - CECyT 1</i><br>
+      2023 - 2027<br><br>
+      <b>Electronic Technician</b><br>
+      <i>CBTis 76</i><br>
       2019 - 2022
     </td>
   </tr>
