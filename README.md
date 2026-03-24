@@ -30,19 +30,19 @@
 <div align="center">
 
 ### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,cpp,c,html,css" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
 
 ### Frameworks & Libraries
 <img src="https://skillicons.dev/icons?i=react,django,nodejs,tailwind,vite" />
 
 ### Databases & Backend
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,supabase" />
+<img src="https://skillicons.dev/icons?i=mysql,supabase" />
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,docker,nginx,githubactions" />
 
 ### Development Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
 
 </div>
 
