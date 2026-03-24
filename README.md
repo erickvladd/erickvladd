@@ -71,7 +71,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverx25&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" width="49%" height="180em"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oliverx25&theme=tokyonight&hide_border=true&area=true" width="49%" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickvladd&theme=tokyonight&hide_border=true&area=true" width="49%" height="180em"/>
 </div>
 
 <div align="center">
