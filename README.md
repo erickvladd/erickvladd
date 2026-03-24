@@ -67,7 +67,7 @@
 </table>
 
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oliverx25&layout=compact&theme=tokyonight&hide_border=true&langs_count=4" width="49%" height="180em"/>
@@ -78,17 +78,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Oliverx25&theme=tokyonight" width="100%"/>
 </div>
 
-## 🏆 Achievements
 
-<div align="center">
-
-| Achievement | Description | Year |
-|:-----------:|:------------|:----:|
-| 🥇 | **Banorte Hackathon 2024** - Frontend Developer | 2024 |
-| 🎓 | **Software Engineering Final Project** - Data Warehouse System | 2024 |
-| 🚀 | **TimeBux Entrepreneurship** - Co-founder & Lead Frontend | 2024 |
-
-</div>
 
 ---
 
