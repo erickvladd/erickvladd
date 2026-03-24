@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a **Computer Systems Engineering** student with a passion for full-stack development and modern technologies. Currently working as a **Frontend Developer** at Arancel - Qbit, where I create dynamic and responsive user interfaces while managing comprehensive application deployments.
+**Computer Systems Engineering** student (6th semester, ESCOM IPN) with hands-on experience in web development and digital content management. Focused on backend development, artificial intelligence, and cybersecurity. Detail-oriented and proactive, with a track record of personal and academic projects. Advanced English (CENLEX IPN).
 
 ## Tech Stack
 
