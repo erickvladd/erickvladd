@@ -46,50 +46,14 @@
 
 </div>
 
-## 🎯 Featured Projects
-
-### University Data Warehouse
-<div align="center">
-  <img src="https://img.shields.io/badge/Type-Academic%20Analysis%20System-blue?style=for-the-badge&logo=chart-bar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-Django%20%7C%20PostgreSQL%20%7C%20OLAP-green?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25/Examen-IS)
+## Featured Projects
 
 </div>
 
----
-
-### Metro Route Planner
-<div align="center">
-  <img src="https://img.shields.io/badge/Type-Transportation%20App-green?style=for-the-badge&logo=map&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Vite%20%7C%20Graph%20Algorithms-blue?style=for-the-badge&logo=react&logoColor=white" />
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25/metro-app)
-</div>
-
----
-
-### Fourier Series Visualizer
-<div align="center">
-  <img src="https://img.shields.io/badge/Type-Mathematical%20Visualization-purple?style=for-the-badge&logo=calculator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20Vite%20%7C%20DFT-orange?style=for-the-badge&logo=react&logoColor=white" />
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Oliverx25/Fourier-PDS)
-</div>
-
-## 💼 Experience & Education
+## Education
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <h3>💼 Work Experience</h3>
-      <b>Frontend Developer</b><br>
-      <i>Arancel | Qbit</i><br>
-      Jan 2024 - Oct 2025<br><br>
-      <b>Frontend Developer</b><br>
-      <i>Banorte Hackathon 2024</i><br>
-      Oct 2024
-    </td>
     <td align="center" width="50%">
       <h3>🎓 Education</h3>
       <b>Computer Systems Engineering</b><br>
