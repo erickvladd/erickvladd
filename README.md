@@ -33,7 +33,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,html,css" />
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,vue" />
 
 ### Databases & Backend
 <img src="https://skillicons.dev/icons?i=mysql,supabase" />
